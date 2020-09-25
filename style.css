@@ -1,0 +1,67 @@
+h1{
+    color: rgb(5, 109, 109);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+background-color: rgb(64, 66, 66);
+display: flex;
+}
+a:link{
+    color: rgb(255,255,255);
+}
+a:visited{
+    color: rgb(255,255,255);
+}
+.fact1{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fact2{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fact3{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fact4{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fact5{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fact6{
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding:15px ;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+body{
+    margin:10px;
+    background-color: #f7f2f2;
+}
+.grid{
+    border: 10px solid #000000;
+    border-radius: 150px;
+    display: flex;
+   
+    
+
+}
+.origami{
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
